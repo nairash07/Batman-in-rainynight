@@ -14,11 +14,11 @@ var man_image
 
 
 function preload(){
-    man_image= loadImage("images/Walking Frame/walking_1.png");
-    thunder1=loadImage("images/thunderbolt/1.png")
-    thunder2=loadImage("images/thunderbolt/2.png")
-    thunder3=loadImage("images/thunderbolt/3.png")
-    thunder4=loadImage("images/thunderbolt/4.png")
+    man_image= loadImage("walking_1.png");
+    thunder1=loadImage("1.png")
+    thunder2=loadImage("2.png")
+    thunder3=loadImage("3.png")
+    thunder4=loadImage("4.png")
 }
 
 function setup(){
